@@ -14,9 +14,9 @@
  - Tasks : 3D left ventricle(LV) segmentation on echocardiography
  - Challenge : lower contrast,higher noise, data dimensionality, limited annotation of 3D echocardiography
  - Contributions :
-    - voxel-to-voxel cGAN
+   - voxel-to-voxel cGAN
     - embeds the 3D LV atlas into an end-to-end optimization framework
- - traditional discrimination loss + new proposed consistent constraint
+    - traditional discrimination loss + new proposed consistent constraint
 
 
 
