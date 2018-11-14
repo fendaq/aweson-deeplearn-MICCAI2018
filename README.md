@@ -33,10 +33,25 @@ VoxelAtlasGAN: 3D Left Ventricle Segmentation on Echocardiography with Atlas Gui
 
 ### Self-play
 Generalizing Deep Models for Ultrasound Image Segmentation
- -School : 深圳大学，香港中文大学
- -Disease : None
- -Tasks : segment congeneric prenatal ultrasound images
- -Challenge : retrain when 
+
+ - School : 深圳大学，香港中文大学
+ - Disease : None
+ - Tasks : segment congeneric prenatal ultrasound images
+ - Challenge : retrain required when new corpus otherwise performance drop
+ - Contributions :
+   - single img from target corpus needed, without modeling ppearance conversion in advance
+   - Self-play training strategy to pre-train
+   - Composite appearance and structure constraints
+ - Evaluation : seven matrics
+   - Dice coefficient (DSC)
+   - Conformity (Conf)
+   - Hausdorff distance of Boundaries(Hdb)
+   - Average distance of boundaries(Adb)
+   - Precision
+   - Recall
+ - **Interesting**
+   - Corpus-level conversion models can match the appearance distributions of different corpora from a global perspective
+   - auxiliary supervision and skip connection
 
 
 
