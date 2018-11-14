@@ -1,0 +1,54 @@
+GAN:
+
+1.VoxelAtlasGAN: 3D Left Ventricle Segmentation on Echocardiography with Atlas Guided Generation and Voxel-to-Voxel Discrimination
+
+2.Generalizing Deep Models for Ultrasound Image Segmentation
+
+3.ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmentation
+
+4. Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging
+
+5. Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision Adversarial Learning
+
+6. Adversarial Similarity Network for Evaluating Image Alignment in Deep Learning Based Registration
+
+7. Generative Invertible Networks (GIN): Pathophysiology-Interpretable Feature Mapping and Virtual Patient Generation
+
+8. Distribution Matching Losses Can Hallucinate Features in Medical Image Translation
+
+9. Ultra-Fast T2-Weighted MR Reconstruction Using Complementary T1-Weighted Information
+
+10. Image Reconstruction by Splitting Deep Learning Regularization from Iterative Inversion
+
+11. Multi-channel Generative Adversarial Network for Parallel Magnetic Resonance Image Reconstruction in K-space
+
+12. Towards Generating Personalized Volumetric Phantom from Patient¡¯s Surface Geometry
+
+13. Adversarial Sparse-View CBCT Artifact Reduction
+
+14. Efficient and Accurate MRI Super-Resolution Using a Generative Adversarial Network and 3D Multi-level Densely Connected Network
+
+15. Multi-task SonoEyeNet: Detection of Fetal Standardized Planes Assisted by Generated Sonographer Attention Maps
+
+Convolution:
+
+1.	Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks
+2.	SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks
+3.	A Framework for Identifying Diabetic Retinopathy Based on Anti-noise Detection and Attention-Based Fusion
+4.	A Multitask Learning Architecture for Simultaneous Segmentation of Bright and Red Lesions in Fundus Images
+5.	Invasive Cancer Detection Utilizing Compressed Convolutional Neural Network and Transfer Learning
+6.	Graph CNN for Survival Analysis on Whole Slide Pathological Images
+7.	Improving Whole Slide Segmentation Through Visual Context - A Systematic Study
+8.	Rotation Equivariant CNNs for Digital Pathology
+9.	Panoptic Segmentation with an End-to-End Cell R-CNN for Pathology Image Analysis
+10.	Integration of Spatial Distribution in Imaging-Genetics
+11.	Multiple Instance Learning for Heterogeneous Images: Training a CNN for Histopathology
+12.	GDL-FIRE4D: Deep Learning-Based Fast 4D CT Image Registration
+13.	Computing CNN Loss and Gradients for Pose Estimation with Riemannian Geometry
+14.	Inherent Brain Segmentation Quality Control from Fully ConvNet Monte Carlo Sampling
+15.	Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and segmentation
+16.	Automated Object Tracing for Biomedical Image Segmentation Using a Deep Convolutional Neural Network
+17.	Pyramid-Based Fully Convolutional Networks for Cell Segmentation
+18.	Btrfly Net: Vertebrae Labelling with Energy-Based Adversarial Learning of Local Spine Prior
+19.	Densely Deep Supervised Networks with Threshold Loss for Cancer Detection in Automated Breast Ultrasound
+20.	Domain and Geometry Agnostic CNNs for Left Atrium Segmentation in 3D Ultrasound
