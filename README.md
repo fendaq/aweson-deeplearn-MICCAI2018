@@ -62,7 +62,18 @@ ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmenta
 - Tasks : Pelvic organ segmentation (骨盆器官分割)
 - Challenge : relieve the demand for large-scale labeled data
 - Contributions :
-  - multi-clss dice loss
+  - multi-class dice loss
   - regien-attention based semi-supervised learning strategy
+- Meaning : biopsy and cancer radiation therapy (活组织检测)
+- Difficulties in acquiring training set:
+  - manual annotation requires expertise knowledge
+  - pixel-wise(voxel-wise) label maps is time-consuming
+  - suffers from large intra- and inter- observer variability
+- Evaluation :
+  - Dice Score Coefficiency(DSC)
+  - Average Surface Distance(ASD)
+- Remaining :
+  - focal loss
+
 
 
