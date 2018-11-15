@@ -8,6 +8,7 @@
 
 ### [a3.](#ASD-Net) [ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00937-3_43.pdf) (Impressive)
 
+### [b1.]() [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
 
 ## Paper content
 
