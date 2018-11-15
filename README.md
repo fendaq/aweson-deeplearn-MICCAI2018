@@ -8,7 +8,7 @@
 
 ### [a3.](#ASD-Net) [ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00937-3_43.pdf) (Impressive)
 
-### [b1.]() [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
+### [b1.](#Cosine) [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
 
 ## Paper content
 
@@ -76,5 +76,18 @@ ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmenta
 - Remaining :
   - focal loss
 
+### Cosine
+Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks
 
+- School : Graz University of Technology, Austria
+- Tasks : 
+  - Left ventricles in MR videos
+  - Cell instance segmentation
+  - ISBI cell tracking challenge
+- Challenge : others solely segment one instance at a time
+- Contributions :
+  - First temporal information for tracking instance segmentation
+  - cosine embedding loss
+- Evaluation : intersection over union(IOU)
+- **Intersting :** data augmentation with SimpleITK
 
