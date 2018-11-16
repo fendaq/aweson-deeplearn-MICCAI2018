@@ -8,7 +8,11 @@
 
 ### [a3.](#ASD-Net) [ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00937-3_43.pdf) (Impressive)
 
+
+
 ### [b1.](#Cosine) [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
+
+### [b2.](#SLSDeep) [SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks](https://www.researchgate.net/publication/325396517_SLSDeep_Skin_Lesion_Segmentation_Based_on_Dilated_Residual_and_Pyramid_Pooling_Networks)
 
 ## Paper content
 
@@ -91,3 +95,5 @@ Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglas
 - Evaluation : intersection over union(IOU)
 - **Intersting :** data augmentation with SimpleITK
 
+### SLSDeep
+SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks
