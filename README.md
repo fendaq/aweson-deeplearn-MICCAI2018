@@ -105,3 +105,9 @@ SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling 
   - dermoscopic images has various characteristics including different sized and shapes, fuzzy boundaries, different
     colors, and the presence of hair
   - Since the melanoma is mostly a small part of a dermoscopic image, the minimization of cross-entropy tends to be **biased** towards the background
+- Contributions :
+  - dilated residual + pyramid pooling networks
+  - loss function = Negative Log Likelihood(NLL) + End Point Error(EPE)
+- Interesting :
+  - the best results were provided when only one skip connection was done between the last layer of the encoder and the output
+  of PPN layer of the decoder
