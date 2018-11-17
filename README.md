@@ -108,6 +108,7 @@ SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling 
 - Contributions :
   - dilated residual + pyramid pooling networks
   - loss function = Negative Log Likelihood(NLL) + End Point Error(EPE)
+- Evaluation : accuracy, Dice coefficient, Jaccard index, specificity
 - Interesting :
   - the best results were provided when only one skip connection was done between the last layer of the encoder and the output
   of PPN layer of the decoder
