@@ -8,7 +8,7 @@
 
 ### [a3.](#ASD-Net) [ASDNet: Attention Based Semi-supervised Deep Networks for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00937-3_43.pdf) (Impressive)
 
-
+### [a4.](#Multi-task)[Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging](https://www.researchgate.net/publication/325413928_Deep_Adversarial_Context-Aware_Landmark_Detection_for_Ultrasound_Imaging)
 
 ### [b1.](#Cosine) [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
 
@@ -112,3 +112,21 @@ SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling 
 - Interesting :
   - the best results were provided when only one skip connection was done between the last layer of the encoder and the output
   of PPN layer of the decoder
+  
+### Multi-task
+Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging
+
+- School : 帝国理工大学 Imperial College London
+- Task : prostate gland localization within the ultrasound image in real-time
+- Challenge :
+  - low tissue contrast
+    - fuzzy boundaries
+    - varing prostate gland sizes
+  - inherent label noise, signal droupout
+  - robust localization of prostate landmarks
+- Contributions :
+  - a new deep learning based approach, localizing several prostate landmarks efficiently and robustly
+  - a multi-task learning approach, more contextually aware
+  - dicriminator adds to motivate that the boundary is a smooth closed shape (增加约束)
+  
+- Intersting : Conditional Random Fields, **trans-rectal ultrasound images**, 
