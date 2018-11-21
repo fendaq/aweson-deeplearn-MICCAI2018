@@ -14,6 +14,8 @@
 
 ### [b2.](#SLSDeep) [SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks](https://www.researchgate.net/publication/325396517_SLSDeep_Skin_Lesion_Segmentation_Based_on_Dilated_Residual_and_Pyramid_Pooling_Networks)
 
+### [c1.](#Deformable) [A Discriminatively Trained, Multiscale, Deformable Part Model](https://www.researchgate.net/publication/221363206_A_Discriminatively_Trained_Multiscale_Deformable_Part_Model)
+
 ## Paper content
 
 ### VoxelAtlasGAN
@@ -130,3 +132,13 @@ Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging
   - dicriminator adds to motivate that the boundary is a smooth closed shape (增加约束)
   
 - Intersting : Conditional Random Fields, **trans-rectal ultrasound images**, 
+
+
+### Deformable
+A Discriminatively Trained, Multiscale, Deformable Part Model
+
+- School : 芝加哥大学
+- Contributions :
+  -- deformable parts
+  -- discriminative training, latent SVM
+- Experiment
