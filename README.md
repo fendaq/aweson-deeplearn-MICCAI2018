@@ -139,6 +139,8 @@ A Discriminatively Trained, Multiscale, Deformable Part Model
 
 - School : 芝加哥大学
 - Contributions :
-  -- deformable parts
-  -- discriminative training, latent SVM
-- Experiment
+  - deformable parts
+  - discriminative training, latent SVM
+- Experiments :
+  - Using higher resolution features for defining part filters is essential for obtaining high recognition performance
+  - allow uncertainty in the root location during training significantly imporoves the performance of the system
