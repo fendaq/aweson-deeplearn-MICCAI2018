@@ -10,6 +10,8 @@
 
 ### [a4.](#Multi-task)[Deep Adversarial Context-Aware Landmark Detection for Ultrasound Imaging](https://www.researchgate.net/publication/325413928_Deep_Adversarial_Context-Aware_Landmark_Detection_for_Ultrasound_Imaging)
 
+### [a5.](#CMF) [Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision Adversarial Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235451/)
+
 ### [b1.](#Cosine) [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
 
 ### [b2.](#SLSDeep) [SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks](https://www.researchgate.net/publication/325396517_SLSDeep_Skin_Lesion_Segmentation_Based_on_Dilated_Residual_and_Pyramid_Pooling_Networks)
@@ -144,3 +146,27 @@ A Discriminatively Trained, Multiscale, Deformable Part Model
 - Experiments :
   - Using higher resolution features for defining part filters is essential for obtaining high recognition performance
   - allow uncertainty in the root location during training significantly imporoves the performance of the system
+  
+### CMF
+Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision Adversarial Learning
+
+- School : 北卡圣教山， dinggang shen
+- Tasks : craniomaxillofacial(CMF, 颅颌面) bony segmentation
+- Challenges :
+  - patient has to be exposed under radiation (CT)
+  - difficult to segment CMF bony structures from MRI, confuse boundaries between bones and air, low signal-to-noise ratio,
+    , and partial volume effect
+- Model structures :
+  - generate a high-quality CT image from an MRI (simulation GAN)
+  - segment bony structures from MRI and the generated CT image (segment GAN)
+- Dataset : Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset
+- Pre-process :
+  - both MRI and CT scans, **resampled** to size 152X184X149, with a voxel size of 1X1X1 mmxmmxmm
+  - intensities rescaled into \[-1, 1]
+  - both MRI and CT, **cropped** 152X184X3
+  - leave-one-out cross validation
+- Evaluation :
+  -quality :
+    - mean absolute error (MAE)
+    - peak-signal-to-noise-ratio (PSNR)
+  - accuracy : Dice similarity coefficient (DSC)
