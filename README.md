@@ -166,7 +166,7 @@ Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision 
   - both MRI and CT, **cropped** 152X184X3
   - leave-one-out cross validation
 - Evaluation :
-  -quality :
+  - quality :
     - mean absolute error (MAE)
     - peak-signal-to-noise-ratio (PSNR)
   - accuracy : Dice similarity coefficient (DSC)
