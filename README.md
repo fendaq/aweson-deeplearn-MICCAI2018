@@ -177,3 +177,17 @@ Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision 
 ### similarity
 Adversarial Similarity Network for Evaluating Image Alignment in Deep Learning Based Registration
 
+- School : dinggang shen
+- Tasks : conventional registration methods
+- Challenges : does not require groud-truth deformations, or specific similarity metrics
+- Contributions :
+  - compared traditional registration methods, end-to-end registration network
+  - compared supervied learning registration methods, adversarial and unsupervised manner
+  - learns a meaningful metric
+- Datasets :
+  - LPBA40, IBSR18, CUMC12, MGH10
+- Traditional registration methods :
+  - diffeomorphic demons
+  - SyN
+- Interesting :
+  - a deformable transformation layer
