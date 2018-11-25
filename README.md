@@ -12,6 +12,8 @@
 
 ### [a5.](#CMF) [Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision Adversarial Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235451/)
 
+### [a6.](#similarity) [Adversarial Similarity Network for Evaluating Image Alignment in Deep Learning Based Registration](http://linkspringercom.springer.whtj.yuntsg.cn:2222/content/pdf/10.1007%2F978-3-030-00928-1_83.pdf)
+
 ### [b1.](#Cosine) [Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks](https://arxiv.org/abs/1806.02070)
 
 ### [b2.](#SLSDeep) [SLSDeep: Skin Lesion Segmentation Based on Dilated Residual and Pyramid Pooling Networks](https://www.researchgate.net/publication/325396517_SLSDeep_Skin_Lesion_Segmentation_Based_on_Dilated_Residual_and_Pyramid_Pooling_Networks)
@@ -170,3 +172,8 @@ Craniomaxillofacial Bony Structures Segmentation from MRI with Deep-Supervision 
     - mean absolute error (MAE)
     - peak-signal-to-noise-ratio (PSNR)
   - accuracy : Dice similarity coefficient (DSC)
+  
+  
+### similarity
+Adversarial Similarity Network for Evaluating Image Alignment in Deep Learning Based Registration
+
