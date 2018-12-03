@@ -9,11 +9,11 @@
 ### Methods
 1. data augmentation
 
-(X) most image augmentation methods in natural images may impose alterations with pathophysiologic significance to medical
+  - (X) most image augmentation methods in natural images may impose alterations with pathophysiologic significance to medical
 images
 
 2. transfer learning 
 
-(X) not accurate
+  - (X) not accurate
 
 3. generate virtual patients
