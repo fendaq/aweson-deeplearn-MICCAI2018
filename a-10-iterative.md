@@ -13,4 +13,4 @@ the reconstructed image as previous work.
 
 data consistence is maintained through iteration for the reconstruction.
 
-[](./1.gif)
+![](./1.gif)
