@@ -21,7 +21,7 @@ DL : Dense-Unet, signal-noise-ratio(SNR) loss, mean squared error(MSE)
 
 ### T1 and T2
 ```
-T1 (1) assess the cerebral cortex
+T1 (1) assess the cerebral cortex(大脑皮质)
    (2) identifying fatty issue
    (3) characterize focal liver lesions
    (4) obtain morphological information, post-contrast imaging
