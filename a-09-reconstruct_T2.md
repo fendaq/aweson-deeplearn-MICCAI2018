@@ -5,10 +5,10 @@ The total acquisition time of ~10 min yields the image quality vunerable to arti
 
 ### Task
 speed up the reconstruction
-'''
+```
                         reconstruct
           
 T1 + under-sampled T2 --------------> fully-sampled T2    
-'''
+```
 
 
