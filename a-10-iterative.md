@@ -13,4 +13,6 @@ the reconstructed image as previous work.
 
 data consistence is maintained through iteration for the reconstruction.
 
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 $$ J(x) = \eta (\sum_{i=1}^m ||Ax_i - y_i||_2^2+\mu || Dx_i||_1)$$
