@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 ## Image Reconstruction by Splitting Deep Learning Regularization from Iterative Inversion
 
 ### Image Reconstruction problems
@@ -13,8 +14,6 @@ the reconstructed image as previous work.
 
 data consistence is maintained through iteration for the reconstruction.
 
-
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 formula1: $$n==x$$
 
 formula2: $$n!=x$$
