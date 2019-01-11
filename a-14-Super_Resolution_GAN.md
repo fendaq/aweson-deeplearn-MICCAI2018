@@ -13,6 +13,9 @@ DenseNet, Wasserstein GAN(WGAN)
 a 3D Multi-level Densely Connected Super-Resolution Networks(mDCSRN)
 
 ### Remaining
-\[4]
+\[4] Efficient and Accurate MRI Super-Resolution using a
+Generative Adversarial Network and 3D Multi-Level
+Densely Connected Network
 
-\[5]
+\[5] Accelerating the super-resolution convolutional
+neural network
