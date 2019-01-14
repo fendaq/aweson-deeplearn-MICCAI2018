@@ -22,7 +22,7 @@ GAN:
 
 11. Multi-channel Generative Adversarial Network for Parallel Magnetic Resonance Image Reconstruction in K-space
 
-12. Towards Generating Personalized Volumetric Phantom from Patient¡¯s Surface Geometry
+12. Towards Generating Personalized Volumetric Phantom from PatientÂ¡Â¯s Surface Geometry
 
 13. Adversarial Sparse-View CBCT Artifact Reduction
 
@@ -52,3 +52,7 @@ Convolution:
 18.	Btrfly Net: Vertebrae Labelling with Energy-Based Adversarial Learning of Local Spine Prior
 19.	Densely Deep Supervised Networks with Threshold Loss for Cancer Detection in Automated Breast Ultrasound
 20.	Domain and Geometry Agnostic CNNs for Left Atrium Segmentation in 3D Ultrasound
+
+C : Related work
+
+2. Image Super-Resolution Using Deep Convolutional Networks(2015)
